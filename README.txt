@@ -66,4 +66,4 @@ NOTES
   Scripts need to be run as a privileged user with rights to create
   another user (SYSTEM, ADMIN, etc.)
 
---------------------------------------------------------------------------
+----------------------------------------------------------------------------
